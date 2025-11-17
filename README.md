@@ -14,9 +14,9 @@ Ini adalah implementasi sederhana dari aplikasi manajemen kontak yang dibuat seb
 
 Untuk menjalankan aplikasi ini, Anda memerlukan:
 
-1.  Web server lokal (misalnya **XAMPP, Laragon, WAMP**)
+1.  Web server lokal (**XAMPP**)
 2.  PHP 7.4 atau lebih tinggi.
-3.  Database **MySQL/MariaDB**.
+3.  Database **MySQL**.
 
 ## 🚀 Instalasi dan Setup
 
@@ -54,4 +54,5 @@ Akses aplikasi melalui browser: http://localhost/nama-folder-proyek/public/login
 Kemudian masukan 
 username: admin
 password: admin123
+
 
