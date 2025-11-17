@@ -45,4 +45,13 @@ CREATE TABLE users (
     password VARCHAR(255) NOT NULL
 );
 
+```
+Atau cukup impor saja file db_kontak.sql
+
+### 3. Menjalankan Aplikasi
+Akses aplikasi melalui browser: http://localhost/nama-folder-proyek/public/login.php
+
+Kemudian masukan 
+username: admin
+password: admin123
 
